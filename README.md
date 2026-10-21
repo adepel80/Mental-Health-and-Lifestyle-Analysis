@@ -77,6 +77,7 @@ Reviewed the visualizations to identify dominant categories and differences betw
 
 <img width="1606" height="915" alt="Image" src="https://github.com/user-attachments/assets/d0adc250-e623-481a-b8b0-96d3519fc314" />
 
+
 Gender Distribution
 
 The dashboard contains 992 male respondents (49.6%) and 1,008 female respondents (50.4%), giving a total of 2,000 respondents.
