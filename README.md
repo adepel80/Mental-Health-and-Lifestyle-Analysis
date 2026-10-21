@@ -74,6 +74,7 @@ Reviewed the visualizations to identify dominant categories and differences betw
 
 
 # Dashboard Visualizations and Key Findings
+<img width="1606" height="915" alt="Image" src="https://github.com/user-attachments/assets/fc97f0de-0f90-49a4-8de5-339e0a185d41" />
 
 Gender Distribution
 
@@ -129,7 +130,7 @@ The gender distribution is almost evenly balanced.
 Lifestyle and demographic patterns can be explored further to investigate possible associations with stress and sleep.
 
 # Recommendations
-Based on the Mental Health and Lifestyle Analysis, the following recommendations are proposed:
+## Based on the Mental Health and Lifestyle Analysis, the following recommendations are proposed:
 
 1. Promote Healthy Screen Time Habits: Since most respondents fall into the high and very high screen time categories, encourage balanced digital habits, regular screen breaks, and reduced unnecessary screen use.
 
