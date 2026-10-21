@@ -172,3 +172,5 @@ The gender distribution is almost evenly balanced.
 
 This project demonstrates how Power BI can be used to transform mental health and lifestyle data into meaningful visual insights. By analysing stress levels, sleep, screen time, social media usage, work or study hours, age categories, and other lifestyle indicators, the dashboard provides a foundation for further exploratory analysis and data-driven research.
 
+
+# AUTHOR: ADEPELUMI
