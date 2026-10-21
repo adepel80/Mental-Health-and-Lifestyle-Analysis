@@ -112,6 +112,28 @@ Occupation Status
 
 The dashboard displays 677 students, 677 employed respondents, and 646 unemployed respondents, providing an overview of occupation status in the dataset.
 
+## In-depth insights from the Mental Health Dataset
+
+The most important findings are:
+- Stress is associated with the depression indicator: the correlation is approximately (r=0.225), a modest positive relationship.
+- Night-time device usage is associated with higher anxiety and burnout indicator rates in this dataset.
+- Screen time has a modest positive relationship with the depression indicator, while sleep duration has a small negative relationship.
+
+
+Age distribution
+- Mean age: 37.7 years
+- Median age: 38 years
+- Middle 50% of ages: approximately 27–49 years
+- Minimum and maximum ages: 16 and 59 years
+The sample covers teenagers through late-middle adulthood, with its center around the late thirties. 
+
+The linear correlation between age and the depression indicator is close to zero ((r\approx-0.007)). 
+Interpretation: Age may still matter in particular age bands or through interactions with occupation, sleep, or workload. A near-zero overall correlation does not rule out more complex age-related patterns.
+
+3. Stress and mental-health indicators
+Stress is one of the most informative variables in this dataset because it has the strongest observed linear associations with all three mental-health indicators among the numeric lifestyle variables examined.
+Correlation between stress and mental-health indicators
+Pearson correlation between Stress_Level and each binary indicator. Larger positive values indicate a stronger positive linear association.
 
 # Key Insights
 
@@ -127,7 +149,6 @@ Work or study hours vary across the five reported categories.
 
 The gender distribution is almost evenly balanced.
 
-Lifestyle and demographic patterns can be explored further to investigate possible associations with stress and sleep.
 
 # Recommendations
 ## Based on the Mental Health and Lifestyle Analysis, the following recommendations are proposed:
@@ -146,7 +167,6 @@ Lifestyle and demographic patterns can be explored further to investigate possib
 
 7. Conduct Further Data Analysis: Use Power BI filters, cross-tabulations, and appropriate statistical tests to examine relationships among stress, sleep, screen time, social media usage, and work or study hours.
 
-8. Improve Dashboard Functionality: Add interactive slicers for age category, gender, and occupation status. Include percentages alongside counts to make comparisons between groups clearer.
 
 # Conclusion
 
